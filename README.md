@@ -12,10 +12,9 @@ Course: Open Source Software | Unit Coverage: 1 – 5 Max Marks: 100
 
 
 
-Student Name	Registration Number
-Adarsh	24BSA10040
-Slot	Date of Submission
-B22	31/03/2026
+Student Name : Adarsh
+Registration No. :	24BSA10040
+Date of Submission : 31/03/2026
  
 1.	Introduction
 
